@@ -1,0 +1,77 @@
+[33mcommit 279c42f7550e81f224c5c5d3c555b35c89340b85[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Sat Oct 21 21:40:38 2023 -0300
+
+    finalizando o projeto!
+
+[33mcommit e43a9575b228be6d3514ca30e063c209aaea5101[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Fri Oct 20 22:52:23 2023 -0300
+
+    add CRUD no projeto
+
+[33mcommit 96f73ab60a7ad1d31ee3aa23a8f7b6154a0dc945[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Thu Oct 19 22:14:49 2023 -0300
+
+    add novo icone
+
+[33mcommit be51158f1b98a98f7cc653db9ead4977e39103dc[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Wed Oct 18 22:50:40 2023 -0300
+
+    styles corrigidos no código
+
+[33mcommit d2552f0e0fe640b8179c5d5fe81ce3691120c84c[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Wed Oct 18 22:34:57 2023 -0300
+
+    falta arrumar o style da pagina
+
+[33mcommit a0264fdb9b5fa0bc29f52dcc5a9d9ef12c8538c7[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Tue Oct 17 22:40:43 2023 -0300
+
+    terminando o curso
+
+[33mcommit 632d3a71fb48d841c90bfbddd6fc8e09dc7f69b7[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Mon Oct 16 23:28:37 2023 -0300
+
+    add mensagens, login e logout
+
+[33mcommit 5bb59c911ab9f236aa52f43b0f5f902cb3305f07[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Sun Oct 15 23:44:11 2023 -0300
+
+    add login e cadastro
+
+[33mcommit ee205c9421f89dd78f62261084707e0e942072e1[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Fri Oct 13 22:28:00 2023 -0300
+
+    terminnando O curso Django 1
+
+[33mcommit 7461bda762792b66b657c4af3c9211ac60e0ba8b[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Thu Oct 12 22:37:32 2023 -0300
+
+    add novas fotos, editando admin e bugando o sitekk
+
+[33mcommit 151b75b582b4f52674f13a14115bbd8cc745a581[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Tue Oct 10 22:18:31 2023 -0300
+
+    add banco de dados
+
+[33mcommit 85454cbaed2aca3a150895ca20a5023359501279[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Mon Oct 9 23:43:13 2023 -0300
+
+    add mais funcoes no codigo
+
+[33mcommit aa04d534b06aa9397f87ca2ac2e2c657b70cd50c[m
+Author: Emerson Viçosa <emersonvicosa@gmail.com>
+Date:   Sun Oct 8 22:56:58 2023 -0300
+
+    inicio do projeto full stack
