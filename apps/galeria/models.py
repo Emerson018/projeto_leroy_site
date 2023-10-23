@@ -33,6 +33,8 @@ class Fotografia(models.Model):
         related_name="user",
     )
 
+    
+
 #isso é pra retornar como pop-up no app
     def __str__(self):
         return self.nome
